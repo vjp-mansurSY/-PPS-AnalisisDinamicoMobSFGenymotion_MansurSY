@@ -231,15 +231,21 @@ En los siguientes pasos podemos dejar todas las opciones tal y como están, salv
 
 ![](images/image9.png)
 
+![image](https://github.com/user-attachments/assets/592a9162-01f0-47ad-95a7-ad756a0184ce)
 
 
 - Cambiamos la versión de Android, seleccionando `Android 5`.
 
 ![](images/image10.png)
 
+![image](https://github.com/user-attachments/assets/7bf67312-5d4a-444d-8117-f222979782d3)
+
+
 - Habilitamos teclado virtual en pantalla.
 
 ![](images/image11.png)
+
+
 
 - !!IMPORTANTE¡¡ En la sección de "Hypervisor Options", configuramos la red del dispositivo en modo `Bridge`. Debemos seleccionar también la interfaz que estamos utilizando (wl0 para inalámbrica, en0 para cableada). 
 
