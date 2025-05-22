@@ -263,6 +263,7 @@ Nos aparece el dispositivo.
 
 ![](images/image13.png)
 
+![image](https://github.com/user-attachments/assets/c2ab2a94-a497-445b-b78c-15c01f53b511)
 
 
 ### Comprobar conexión con dispositivo.
@@ -395,6 +396,9 @@ pip2 install web.py
 
 ![](images/image20.png)
 
+![image](https://github.com/user-attachments/assets/419c7e62-7ce2-4848-b39b-9e0a68713e8d)
+
+
 4. Introducimos dirección Ip del Servidor.
 
 Si lo hemos creado en nuestro equipo tan sólo tenemos que ver la ip de nuestro equipo y ponerla. Por defecto usamos el puerto 8888.
@@ -435,6 +439,9 @@ En este caso es la 192.168.1.137. ¡¡¡OJO¡¡ que esta ip no tiene que ser sie
 docker run -it --rm -e MOBSF_ANALYZER_IDENTIFIER=192.168.1.137:5555 -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest
 ```
 
+![image](https://github.com/user-attachments/assets/2afa311b-b7fc-4532-b4c0-ada1ce51c9c1)
+
+
 1. Accede a `MobSF`
 
 <http://localhost:8080/>
@@ -449,10 +456,16 @@ docker run -it --rm -e MOBSF_ANALYZER_IDENTIFIER=192.168.1.137:5555 -p 8000:8000
 2. Arrastramos la apk sobre el emulador.
 
 ![](images/image23.png)
+
+![image](https://github.com/user-attachments/assets/969dfc3f-2e75-4171-8dc8-c3511590d163)
+
  
 3. Selecciona la opción **Dynamic Analyzer**.
 
 ![](images/image37.png)
+
+![image](https://github.com/user-attachments/assets/00e8a23d-0608-4a09-b3e6-a001796d25ba)
+
 
 3. Asegúrate de que MobSF detecta el dispositivo emulado vía ADB.
 
