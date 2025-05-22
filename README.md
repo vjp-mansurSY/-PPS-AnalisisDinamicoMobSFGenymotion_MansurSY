@@ -245,6 +245,7 @@ En los siguientes pasos podemos dejar todas las opciones tal y como están, salv
 
 ![](images/image11.png)
 
+![image](https://github.com/user-attachments/assets/39fbfd11-8ac9-4470-b392-d2fcc394e780)
 
 
 - !!IMPORTANTE¡¡ En la sección de "Hypervisor Options", configuramos la red del dispositivo en modo `Bridge`. Debemos seleccionar también la interfaz que estamos utilizando (wl0 para inalámbrica, en0 para cableada). 
@@ -255,9 +256,14 @@ En los siguientes pasos podemos dejar todas las opciones tal y como están, salv
 
 ![](images/image12.png)
 
+![image](https://github.com/user-attachments/assets/9d89405e-23fd-4a18-8f1e-f72570bdd799)
+
+
 Nos aparece el dispositivo.
 
 ![](images/image13.png)
+
+
 
 ### Comprobar conexión con dispositivo.
 
@@ -267,6 +273,8 @@ Para ver si hay conexión con el dispositivo creado:
 - Entramos en `Settings` o `Ajustes`
 
 ![](images/image28.png)
+
+
 
 - Entramos en seccion `WIFI`
 
